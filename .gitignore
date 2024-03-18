@@ -1,0 +1,7 @@
+credentials.json
+
+# notes
+*.txt
+
+# Vim Swap files
+*.swp
