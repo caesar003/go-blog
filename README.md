@@ -72,3 +72,6 @@ that's me: [caesar003](https://github.com/caesar003)
 ## Acknowledgements
 - Salem Olorundare for the insightful blog post ["How to Create a CRUD Application with GoLang and MySQL"](https://www.honeybadger.io/blog/how-to-create-crud-application-with-golang-and-mysql/), which served as the foundation for this project
 - Thanks to [Go](https://go.dev) for the awesome programming language
+
+
+> API documentation can be found [here](https://documenter.getpostman.com/view/10723436/2sA2xpS8re#e7300aa5-b893-41c1-bd39-f5dd06681d3d)
